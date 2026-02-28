@@ -23,7 +23,7 @@ Lunarは、この理想を現実世界で実装することに挑戦します。
 ## 🎨 プロジェクトの特徴
 
 ### 1. **すべてのユーザーがクリエイター**
-閲覧者ではなく、全員が創作者として参加。作品を発表し、他者を支援する双方向の経済圏。
+閲覧者ではなく、全員が創作者として参加可能。作品を発表し、他者を支援する双方向の経済圏。
 
 ### 2. **最低手数料5%**
 主要プラットフォーム（Pixiv Booth 10%、Patreon 5-12%）と比較して最低水準の手数料を実現。クリエイターファースト。
@@ -223,7 +223,7 @@ MIT License
 
 ### 関連作品・企業
 
-- **原作**: 『超かぐや姫』（[ファミ通文庫](https://famitsubunko.jp/product/322509000503.html) / [KADOKAWA](https://www.kadokawa.co.jp/product/322509000193/)）
+- **原作**: 『超かぐや姫』（[Netflix](https://www.netflix.com/browse?jbv=81756595) / [ファミ通文庫](https://famitsubunko.jp/product/322509000503.html) / [KADOKAWA](https://www.kadokawa.co.jp/product/322509000193/)）
 - **アニメ制作**: [株式会社ツインエンジン](https://twinengine.jp/news/17464)
 - **配信**: [Netflix](https://www.netflix.com/browse?jbv=81756595)
 
